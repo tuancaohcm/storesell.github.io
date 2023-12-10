@@ -1,0 +1,8 @@
+cron=/home/trummailconet/public_html/cron
+resources=/home/trummailconet/public_html/resources
+.env=/home/trummailconet/public_html/.env
+config.php=/home/trummailconet/public_html/config.php
+assets=/home/trummailconet/public_html/assets
+models=/home/trummailconet/public_html/models
+__MACOSX=/home/trummailconet/public_html/__MACOSX
+public=/home/trummailconet/public_html/public
